@@ -81,7 +81,8 @@ Cela va créer un dossier logistique_symfony/ avec toute la structure MVC Symfon
 
 Lance le serveur web local :
 symfony serve
---------------------------------------------------------------------------------------------------------------------------------------
+
+
 ##  Installation du projet
 
 ### 1. **Cloner le dépôt**
